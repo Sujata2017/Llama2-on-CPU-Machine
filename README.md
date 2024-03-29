@@ -32,3 +32,10 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 ## From the following link:
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 ```
+
+
+### Flask app
+
+<p align="center">
+  <img src="kidney3.JPG" width="500">
+</p>
